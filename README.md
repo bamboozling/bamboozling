@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+<img src="https://i.ibb.co/D0Wk57c/top-div-1.png"/>
+</p>
 
-<!--
-**bamboozling/bamboozling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> ︵︵⠀ ⠀remaking ⠀! ⠀<3 </p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://i.ibb.co/m5YY206G/right-image.png" width="400" height="400%""/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+<img src="https://i.ibb.co/60TrYHFv/bottom-div-1.png"/>
+</p>
