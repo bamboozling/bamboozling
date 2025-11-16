@@ -1,3 +1,7 @@
+REMAKING MY PRONOUNS CC....AND RETHEMING THIS....MIGHT CHNAGE USERNAMES AGAIN BEAR WITH ME OK vsmp finale guys idk how to feel....depending on how things go...
+
+---
+
 <p align="center">
 <img src=""/>
 </p>
